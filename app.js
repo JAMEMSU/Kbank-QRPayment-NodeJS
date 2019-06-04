@@ -4,10 +4,10 @@ const date = new Date()
 
 let options = {
    partnerTxnUid: 'PT'+uniqid.process(),
-   partnerId: 'PTR4459294',    // partnerId
-   partnerSecret: '47a06cf6ef3d42d1992536f84469e482', // partnerSecret
+   partnerId: 'PTR4494',    // partnerId
+   partnerSecret: '47a06cf6ef3d426f84469e482', // partnerSecret
    requestDt: date.toISOString(),
-   merchantId: 'KB142996853995', // merchantId
+   merchantId: 'KB142953995', // merchantId
    terminalId: 'term1',
    qrType: '3',
    txnAmount: 10.5,
