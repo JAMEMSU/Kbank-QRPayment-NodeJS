@@ -16,7 +16,7 @@ let options = {
    reference2: null,
    reference3: null,
    reference4: null,
-   metadata: 'ถุงผ้า 80.50, ดินสอ 20.00' 
+   metadata: 'ถุงผ้า 10.5' 
 };
 
 
